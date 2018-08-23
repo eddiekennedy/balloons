@@ -1,6 +1,6 @@
 # 🎈🎈🎈 Balloons 🎈🎈🎈
 
-Boilerplate for a state site.
+Boilerplate for a static site.
 
 `npm install` > `gulp styles` > `gulp`
 
