@@ -1,0 +1,22 @@
+{
+  "name": "Balloons",
+  "version": "0.0.1",
+  "description": "Bolilerplate for generating a static site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddie Kennedy",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eddiekennedy/balloons"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-file-include": "^2.0.1",
+    "gulp-inline-source": "^3.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-server-livereload": "^1.9.2"
+  }
+}

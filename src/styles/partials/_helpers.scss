@@ -1,0 +1,22 @@
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+// Helper Classes
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+.contain {
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 1.5em;
+}
+
+.center {
+  text-align: center;
+}
+
+@media ( min-width: $mq-large ) {
+
+  .contain {
+    padding: 0 2em;
+  }
+
+}
